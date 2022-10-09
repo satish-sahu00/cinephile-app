@@ -1,0 +1,22 @@
+{
+  "button": {
+    "label": {
+      "loginSignUp": "Login / Sign Up",
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode"
+    },
+    "title": {
+      "loginSignUp": "Login or Sign Up",
+      "darkMode": "Switch to dark mode",
+      "lightMode": "Switch to light mode"
+    }
+  },
+  "logo": {
+    "label": {
+      "appLogo": "cinephile."
+    },
+    "title": {
+      "appLogo": "cinephile home"
+    }
+  }
+}
